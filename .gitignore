@@ -1,0 +1,33 @@
+# virtual environments
+.venv
+.mypy_cache
+
+# folder
+/photos/
+/pictures/
+/input/
+/output/
+
+# image files
+*.jpg
+*.jpeg
+*.JPG
+*.JPEG
+*.png
+*.PNG
+*.bmp
+*.BMP
+*.gif
+*.GIF
+*.tiff
+*.tif
+*.TIFF
+*.TIF
+*.webp
+*.WEBP
+*.heic
+*.HEIC
+*.heif
+*.HEIF
+*.avif
+*.AVIF
